@@ -1,0 +1,14 @@
+Header
+1. hotels,pracat auto only links on other companys
+2. sidebar to enter language country and valyut
+3. login/singup bar
+Search
+0. switch return or one way
+1. from
+2. to 
+3. when go
+about our company
+flights from selected county
+FAQ
+
+https://www.skyscanner.net/flights?locale=en-GB

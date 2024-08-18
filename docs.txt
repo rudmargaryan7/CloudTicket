@@ -1,0 +1,6 @@
+About project
+ther project creating for bieng ariplane tickets
+project should be have a 2 general pages
+ther first page --- when user dont logined we should show him our company information and after it we should show him list of tickets
+we shoudl have an admin panel
+the second page --- when user already logined and we should show him her/him office,tickets,account, fling times and other
