@@ -1,0 +1,26 @@
+.ticket {
+  max-width: 800px;
+  img {
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+    @media screen and (max-width: 900px) {
+      width: 150px;
+      height: 75px;
+    }
+  }
+  .line {
+    width: 100px;
+    height: 1px;
+    background-color: #c1c7cf;
+  }
+  .like__button {
+    position: absolute;
+    top: 5px;
+    cursor: pointer;
+    border-radius: 12px;
+    padding: 0px 10px;
+    border: 1px solid var(--primary-color);
+    right: 10px;
+  }
+}

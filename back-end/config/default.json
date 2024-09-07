@@ -1,0 +1,17 @@
+{
+  "server": {
+    "PORT": 5000
+  },
+  "database": {
+    "mongoURL": "mongodb+srv://Rud:iKCGf2ZNnVEXtWcY@cluster0.efgqagm.mongodb.net/CloudTIcketDB?retryWrites=true&w=majority",
+    "password": "iKCGf2ZNnVEXtWcY"
+  },
+  "jwt": {
+    "pass": "iKCGf2ZNnVEXtWcYnu9n39nnunwbb11#$R%",
+    "expires": "1d"
+  },
+  "bcrypt": {
+    "pass": "asfgjnfjenfij3%$!!EDsdf",
+    "salt": 10
+  }
+}
