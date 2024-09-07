@@ -4,3 +4,21 @@ project should be have a 2 general pages
 ther first page --- when user dont logined we should show him our company information and after it we should show him list of tickets
 we shoudl have an admin panel
 the second page --- when user already logined and we should show him her/him office,tickets,account, fling times and other
+
+
+Ticket Types
+1. User shuld have a ticket idis list wher should saving her tickets
+2. User should have a liked ticket ids list
+3. User Should have a already ending tickets ids list this list can only be that tickets
+who coming from tickets list
+3. Ticket 
+    1. From
+    2. To
+    3.  Data
+    4. class
+    5. accessible
+4. User Buyed ticket
+    1. ticketId
+    2. Adults
+    3. purchaseId == _id
+If Ticket already buyed from one account 3 step its should send error that user can not buy this ticket 4 step
